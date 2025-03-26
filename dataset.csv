@@ -1,0 +1,11 @@
+Order ID,Order Date,Customer ID,Customer Name,Product,Category,Quantity,Unit Price,Total Price,Discount,Reformat Order Date,Total Price After Discount
+ORD001,2025-01-15,101,John Doe,Smartphone,Electronics,1,699.99,699.99,0.00,2025-Jan-15,699.99
+ORD002,2025-01-16,102,Jane Smith,Laptop,Electronics,1,999.99,999.99,50.00,2025-Jan-16,949.99
+ORD003,2025-01-16,103,Emily Johnson,Headphones,Accessories,2,49.99,99.98,10.00,2025-Jan-16,89.98
+ORD004,2025-01-17,104,Michael Brown,Tablet,Electronics,1,399.99,399.99,20.00,2025-Jan-17,379.99
+ORD005,2025-01-18,105,Chris Wilson,Smartwatch,Accessories,3,199.99,599.97,30.00,2025-Jan-18,569.97
+ORD006,2025-01-19,106,Sophia Lee,Camera,Electronics,1,599.99,599.99,0.00,2025-Jan-19,599.99
+ORD007,2025-01-19,107,Liam Davis,Keyboard,Accessories,5,29.99,149.95,15.00,2025-Jan-19,134.95
+ORD008,2025-01-20,108,Olivia Martin,Monitor,Electronics,2,249.99,499.98,25.00,2025-Jan-20,474.98
+ORD009,2025-01-20,109,Noah Garcia,Mouse,Accessories,4,19.99,79.96,5.00,2025-Jan-20,74.96
+ORD010,2025-01-20,110,Ava Anderson,Router,Electronics,1,129.99,129.99,10.00,2025-Jan-20,119.99
